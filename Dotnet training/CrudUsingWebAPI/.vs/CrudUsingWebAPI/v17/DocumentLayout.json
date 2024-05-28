@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|d:\\kailash.jha\\dotnet training\\crudusingwebapi\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|d:\\kailash.jha\\dotnet training\\crudusingwebapi\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|d:\\kailash.jha\\dotnet training\\crudusingwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|d:\\kailash.jha\\dotnet training\\crudusingwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|d:\\kailash.jha\\dotnet training\\crudusingwebapi\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|solutionrelative:migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|d:\\kailash.jha\\dotnet training\\crudusingwebapi\\migrations\\20240522102005_productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|solutionrelative:migrations\\20240522102005_productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|d:\\kailash.jha\\dotnet training\\crudusingwebapi\\crudusingwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|solutionrelative:crudusingwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|d:\\kailash.jha\\dotnet training\\crudusingwebapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|d:\\kailash.jha\\dotnet training\\crudusingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|d:\\kailash.jha\\dotnet training\\crudusingwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522C350C-C2F8-489C-88B1-3B4C4850B1D5}|CrudUsingWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:34:12.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrudUsingWebAPI.http",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\CrudUsingWebAPI.http",
+              "RelativeDocumentMoniker": "CrudUsingWebAPI.http",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\CrudUsingWebAPI.http",
+              "RelativeToolTip": "CrudUsingWebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-22T11:30:16.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240522102005_ProductDBContext.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Migrations\\20240522102005_ProductDBContext.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522102005_ProductDBContext.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Migrations\\20240522102005_ProductDBContext.cs",
+              "RelativeToolTip": "Migrations\\20240522102005_ProductDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:20:06.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:23:40.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Repository\\IRepository.cs*",
+              "RelativeToolTip": "Repository\\IRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:07:18.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:11:34.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:24:00.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:15:38.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:30:18.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudUsingWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T09:32:09.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

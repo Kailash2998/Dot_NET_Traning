@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RoleBaseAuthenticationInAsp.NetCore/1.0.0": {
+        "runtime": {
+          "RoleBaseAuthenticationInAsp.NetCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RoleBaseAuthenticationInAsp.NetCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

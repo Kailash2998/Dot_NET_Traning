@@ -1,0 +1,49 @@
+﻿@model ForgenKeyRelationship.NetCore.Models.Book
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h1 class="card-title text-center text-color-primary">Book Details</h1>
+                    <hr />
+
+                    <dl class="row">
+                        <dt class="col-sm-3">Title:</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Title)</dd>
+
+                        <dt class="col-sm-3">ISBN:</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.ISBN)</dd>
+
+                        <dt class="col-sm-3">Publication Date:</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.PublicationDate)</dd>
+
+                        <dt class="col-sm-3">Price:</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Price)</dd>
+
+                        <dt class="col-sm-3">Genre:</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Genre)</dd>
+
+                        <dt class="col-sm-3">Author:</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Author.Name)</dd>
+
+                        <dt class="col-sm-3">Publisher:</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Publisher.Name)</dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row justify-content-center mt-3 text-center">
+        <div class="col-md-4">
+            <a class="btn btn-primary btn-block" asp-action="Edit" asp-route-id="@Model?.BookId">Edit</a> |
+            <a class="btn btn-secondary btn-block" asp-action="GetAllBooks">Back to List</a>
+        </div>
+       
+    </div>
+</div>

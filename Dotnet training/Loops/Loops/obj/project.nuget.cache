@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgsGOISUzRwWTDtoZP8JKy5cW3OodXxCfnC8IvgUxiDGWxfK3JfF93NDXcwbMidyMhmhasReqtzujfROgcqgVg==",
+  "success": true,
+  "projectFilePath": "D:\\Kailash.jha\\Dotnet training\\Loops\\Loops\\Loops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kailash.jha\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kailash.jha\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kailash.jha\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|d:\\kailash.jha\\dotnet training\\webappwithoutmvc\\webappwithoutmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|solutionrelative:webappwithoutmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|d:\\kailash.jha\\dotnet training\\webappwithoutmvc\\webappwithoutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|solutionrelative:webappwithoutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|d:\\kailash.jha\\dotnet training\\webappwithoutmvc\\webappwithoutmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|solutionrelative:webappwithoutmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|d:\\kailash.jha\\dotnet training\\webappwithoutmvc\\webappwithoutmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|solutionrelative:webappwithoutmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|d:\\kailash.jha\\dotnet training\\webappwithoutmvc\\webappwithoutmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|solutionrelative:webappwithoutmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|d:\\kailash.jha\\dotnet training\\webappwithoutmvc\\webappwithoutmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|solutionrelative:webappwithoutmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|d:\\kailash.jha\\dotnet training\\webappwithoutmvc\\webappwithoutmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|solutionrelative:webappwithoutmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|d:\\kailash.jha\\dotnet training\\webappwithoutmvc\\webappwithoutmvc\\webappwithoutmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C582452-AB2A-4B07-A91B-B563962731CD}|WebAppWithoutMvc\\WebAppWithoutMvc.csproj|solutionrelative:webappwithoutmvc\\webappwithoutmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAppWithoutMvc\\Startup.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Startup.cs",
+              "RelativeToolTip": "WebAppWithoutMvc\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:03:11.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebAppWithoutMvc\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebAppWithoutMvc\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T12:04:07.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppWithoutMvc\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "WebAppWithoutMvc\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T12:00:10.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAppWithoutMvc\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAppWithoutMvc\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:59:03.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppWithoutMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppWithoutMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T11:39:14.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppWithoutMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppWithoutMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:37:07.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppWithoutMvc\\Program.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\Program.cs",
+              "RelativeToolTip": "WebAppWithoutMvc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:34:17.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebAppWithoutMvc.csproj",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\WebAppWithoutMvc.csproj",
+              "RelativeDocumentMoniker": "WebAppWithoutMvc\\WebAppWithoutMvc.csproj",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\WebAppWithoutMvc\\WebAppWithoutMvc\\WebAppWithoutMvc.csproj",
+              "RelativeToolTip": "WebAppWithoutMvc\\WebAppWithoutMvc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T11:33:58.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

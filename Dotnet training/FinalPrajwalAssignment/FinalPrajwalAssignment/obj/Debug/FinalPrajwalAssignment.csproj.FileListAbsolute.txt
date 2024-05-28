@@ -1,0 +1,7 @@
+D:\Kailash.jha\Dotnet training\FinalPrajwalAssignment\FinalPrajwalAssignment\bin\Debug\FinalPrajwalAssignment.exe.config
+D:\Kailash.jha\Dotnet training\FinalPrajwalAssignment\FinalPrajwalAssignment\bin\Debug\FinalPrajwalAssignment.exe
+D:\Kailash.jha\Dotnet training\FinalPrajwalAssignment\FinalPrajwalAssignment\bin\Debug\FinalPrajwalAssignment.pdb
+D:\Kailash.jha\Dotnet training\FinalPrajwalAssignment\FinalPrajwalAssignment\obj\Debug\FinalPrajwalAssignment.csproj.AssemblyReference.cache
+D:\Kailash.jha\Dotnet training\FinalPrajwalAssignment\FinalPrajwalAssignment\obj\Debug\FinalPrajwalAssignment.csproj.CoreCompileInputs.cache
+D:\Kailash.jha\Dotnet training\FinalPrajwalAssignment\FinalPrajwalAssignment\obj\Debug\FinalPrajwalAssignment.exe
+D:\Kailash.jha\Dotnet training\FinalPrajwalAssignment\FinalPrajwalAssignment\obj\Debug\FinalPrajwalAssignment.pdb

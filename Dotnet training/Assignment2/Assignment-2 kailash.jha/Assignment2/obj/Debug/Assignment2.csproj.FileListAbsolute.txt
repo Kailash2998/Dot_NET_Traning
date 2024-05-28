@@ -1,0 +1,7 @@
+D:\Kailash.jha\Dotnet training\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Kailash.jha\Dotnet training\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\Kailash.jha\Dotnet training\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\Kailash.jha\Dotnet training\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\Kailash.jha\Dotnet training\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\Kailash.jha\Dotnet training\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\Kailash.jha\Dotnet training\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

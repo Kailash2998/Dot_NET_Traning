@@ -1,0 +1,48 @@
+﻿ @model IEnumerable<CrudOperation.NetCore.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead class="table table-dark">
+            <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Description</th>
+                <th>Stock Quantity</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td>@item.Description</td>
+                    <td>@item.StockQuantity</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary hover-effect">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info hover-effect">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger hover-effect">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<style>
+    .hover-effect:hover {
+        filter: brightness(0.8); /* Adjust brightness to make the button darker */
+    }
+</style>

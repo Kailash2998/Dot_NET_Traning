@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|d:\\kailash.jha\\dotnet training\\assignmentno3.netcore\\assignmentno3.netcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|solutionrelative:assignmentno3.netcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|d:\\kailash.jha\\dotnet training\\assignmentno3.netcore\\assignmentno3.netcore\\services\\dependencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|solutionrelative:assignmentno3.netcore\\services\\dependencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|d:\\kailash.jha\\dotnet training\\assignmentno3.netcore\\assignmentno3.netcore\\services\\itransient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|solutionrelative:assignmentno3.netcore\\services\\itransient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|d:\\kailash.jha\\dotnet training\\assignmentno3.netcore\\assignmentno3.netcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|solutionrelative:assignmentno3.netcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|d:\\kailash.jha\\dotnet training\\assignmentno3.netcore\\assignmentno3.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|solutionrelative:assignmentno3.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|d:\\kailash.jha\\dotnet training\\assignmentno3.netcore\\assignmentno3.netcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBB3ACC0-9162-460F-B026-93081DBD9AB8}|AssignmentNo3.NetCore\\AssignmentNo3.NetCore.csproj|solutionrelative:assignmentno3.netcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AssignmentNo3.NetCore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AssignmentNo3.NetCore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:17:14.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentNo3.NetCore\\Program.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Program.cs",
+              "RelativeToolTip": "AssignmentNo3.NetCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:34:20.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AssignmentNo3.NetCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AssignmentNo3.NetCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T10:33:33.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AssignmentNo3.NetCore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AssignmentNo3.NetCore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:17:21.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyServices.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Services\\DependencyServices.cs",
+              "RelativeDocumentMoniker": "AssignmentNo3.NetCore\\Services\\DependencyServices.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Services\\DependencyServices.cs",
+              "RelativeToolTip": "AssignmentNo3.NetCore\\Services\\DependencyServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:04:17.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITransient.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Services\\ITransient.cs",
+              "RelativeDocumentMoniker": "AssignmentNo3.NetCore\\Services\\ITransient.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\AssignmentNo3.NetCore\\AssignmentNo3.NetCore\\Services\\ITransient.cs",
+              "RelativeToolTip": "AssignmentNo3.NetCore\\Services\\ITransient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:02:46.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

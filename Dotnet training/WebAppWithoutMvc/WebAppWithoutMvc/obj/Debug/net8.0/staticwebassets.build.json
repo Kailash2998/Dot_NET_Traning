@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jD6ySvDuEyeK81vBvZYHFrtakC29Sw0CkzUyLlr5HPI=",
+  "Source": "WebAppWithoutMvc",
+  "BasePath": "_content/WebAppWithoutMvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

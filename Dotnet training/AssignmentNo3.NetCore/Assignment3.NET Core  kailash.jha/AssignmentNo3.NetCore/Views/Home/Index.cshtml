@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<h1>Service Information</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Service Type</th>
+            <th>Service ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Transient 1</td>
+            <td>@ViewBag.transient1</td>
+        </tr>
+        <tr>
+            <td>Transient 2</td>
+            <td>@ViewBag.transient2</td>
+        </tr>
+        <tr>
+            <td>Scoped 1</td>
+            <td>@ViewBag.scoped1</td>
+        </tr>
+        <tr>
+            <td>Scoped 2</td>
+            <td>@ViewBag.scoped2</td>
+        </tr>
+        <tr>
+            <td>Singleton 1</td>
+            <td>@ViewBag.singelton1</td>
+        </tr>
+        <tr>
+            <td>Singleton 2</td>
+            <td>@ViewBag.singelton2</td>
+        </tr>
+    </tbody>
+</table>

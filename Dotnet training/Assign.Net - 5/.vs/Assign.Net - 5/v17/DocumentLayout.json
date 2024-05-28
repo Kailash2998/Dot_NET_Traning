@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8909EC-F26C-42CC-81FE-B616858D7205}|Assign.Net - 5.csproj|d:\\kailash.jha\\dotnet training\\assign.net - 5\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8909EC-F26C-42CC-81FE-B616858D7205}|Assign.Net - 5.csproj|solutionrelative:services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8909EC-F26C-42CC-81FE-B616858D7205}|Assign.Net - 5.csproj|d:\\kailash.jha\\dotnet training\\assign.net - 5\\assign.net - 5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0D8909EC-F26C-42CC-81FE-B616858D7205}|Assign.Net - 5.csproj|solutionrelative:assign.net - 5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8909EC-F26C-42CC-81FE-B616858D7205}|Assign.Net - 5.csproj|d:\\kailash.jha\\dotnet training\\assign.net - 5\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8909EC-F26C-42CC-81FE-B616858D7205}|Assign.Net - 5.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8909EC-F26C-42CC-81FE-B616858D7205}|Assign.Net - 5.csproj|d:\\kailash.jha\\dotnet training\\assign.net - 5\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8909EC-F26C-42CC-81FE-B616858D7205}|Assign.Net - 5.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8909EC-F26C-42CC-81FE-B616858D7205}|Assign.Net - 5.csproj|d:\\kailash.jha\\dotnet training\\assign.net - 5\\services\\genericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8909EC-F26C-42CC-81FE-B616858D7205}|Assign.Net - 5.csproj|solutionrelative:services\\genericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\Services\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Program.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\Services\\Program.cs",
+              "RelativeToolTip": "Services\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:49:37.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assign.Net - 5",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\Assign.Net - 5.csproj",
+              "RelativeDocumentMoniker": "Assign.Net - 5.csproj",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\Assign.Net - 5.csproj",
+              "RelativeToolTip": "Assign.Net - 5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T04:49:36.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:49:31.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:49:31.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericServices.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\Services\\GenericServices.cs",
+              "RelativeDocumentMoniker": "Services\\GenericServices.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\Assign.Net - 5\\Services\\GenericServices.cs",
+              "RelativeToolTip": "Services\\GenericServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:49:23.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

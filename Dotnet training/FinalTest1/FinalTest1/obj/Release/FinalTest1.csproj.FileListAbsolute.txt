@@ -1,0 +1,7 @@
+D:\Kailash.jha\Dotnet training\FinalTest1\FinalTest1\bin\Release\FinalTest1.exe.config
+D:\Kailash.jha\Dotnet training\FinalTest1\FinalTest1\bin\Release\FinalTest1.exe
+D:\Kailash.jha\Dotnet training\FinalTest1\FinalTest1\bin\Release\FinalTest1.pdb
+D:\Kailash.jha\Dotnet training\FinalTest1\FinalTest1\obj\Release\FinalTest1.csproj.AssemblyReference.cache
+D:\Kailash.jha\Dotnet training\FinalTest1\FinalTest1\obj\Release\FinalTest1.csproj.CoreCompileInputs.cache
+D:\Kailash.jha\Dotnet training\FinalTest1\FinalTest1\obj\Release\FinalTest1.exe
+D:\Kailash.jha\Dotnet training\FinalTest1\FinalTest1\obj\Release\FinalTest1.pdb

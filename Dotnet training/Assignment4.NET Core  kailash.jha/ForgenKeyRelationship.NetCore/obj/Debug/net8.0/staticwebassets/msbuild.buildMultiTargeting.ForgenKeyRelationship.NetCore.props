@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ForgenKeyRelationship.NetCore.props" />
+</Project>

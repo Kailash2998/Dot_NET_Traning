@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kailash.jha\\Dotnet training\\Implicit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3D37DD-BBBC-4ADF-8636-A8D1C96D40D1}|Implicit\\Implicit.csproj|d:\\kailash.jha\\dotnet training\\implicit\\implicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3D37DD-BBBC-4ADF-8636-A8D1C96D40D1}|Implicit\\Implicit.csproj|solutionrelative:implicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\Implicit\\Implicit\\Program.cs",
+              "RelativeDocumentMoniker": "Implicit\\Program.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\Implicit\\Implicit\\Program.cs",
+              "RelativeToolTip": "Implicit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:46:07.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

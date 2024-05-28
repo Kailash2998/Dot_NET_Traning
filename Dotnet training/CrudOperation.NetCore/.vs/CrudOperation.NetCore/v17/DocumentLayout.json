@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|d:\\kailash.jha\\dotnet training\\crudoperation.netcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|d:\\kailash.jha\\dotnet training\\crudoperation.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|d:\\kailash.jha\\dotnet training\\crudoperation.netcore\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|solutionrelative:models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|d:\\kailash.jha\\dotnet training\\crudoperation.netcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|d:\\kailash.jha\\dotnet training\\crudoperation.netcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|d:\\kailash.jha\\dotnet training\\crudoperation.netcore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|d:\\kailash.jha\\dotnet training\\crudoperation.netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|d:\\kailash.jha\\dotnet training\\crudoperation.netcore\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|solutionrelative:views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|d:\\kailash.jha\\dotnet training\\crudoperation.netcore\\migrations\\20240515044648_codefirstaddcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|solutionrelative:migrations\\20240515044648_codefirstaddcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|d:\\kailash.jha\\dotnet training\\crudoperation.netcore\\migrations\\20240515043746_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFE5AEC-7333-46AC-BC06-840FEED094C5}|CrudOperation.NetCore.csproj|solutionrelative:migrations\\20240515043746_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T06:56:07.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T06:40:54.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T06:32:13.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T05:58:21.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T05:13:22.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:57:22.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:24:09.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDbContext.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "Models\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:29:17.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:40:12.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHkUAAAAAAAAAAAcwIIUAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-15T05:38:43.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T05:55:49.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T13:35:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Product.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Product.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Views\\Home\\Product.cshtml",
+              "RelativeToolTip": "Views\\Home\\Product.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T05:12:39.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240515044648_CodeFirstAddColumn.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Migrations\\20240515044648_CodeFirstAddColumn.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240515044648_CodeFirstAddColumn.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Migrations\\20240515044648_CodeFirstAddColumn.cs",
+              "RelativeToolTip": "Migrations\\20240515044648_CodeFirstAddColumn.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:46:48.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240515043746_CodeFirstCreateDB.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Migrations\\20240515043746_CodeFirstCreateDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240515043746_CodeFirstCreateDB.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\CrudOperation.NetCore\\Migrations\\20240515043746_CodeFirstCreateDB.cs",
+              "RelativeToolTip": "Migrations\\20240515043746_CodeFirstCreateDB.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:37:47.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

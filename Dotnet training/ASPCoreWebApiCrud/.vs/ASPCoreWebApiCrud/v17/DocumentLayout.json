@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kailash.jha\\Dotnet training\\ASPCoreWebApiCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D99722D-9B6B-49E2-BDF3-276DAEF93454}|ASPCoreWebApiCrud.csproj|d:\\kailash.jha\\dotnet training\\aspcorewebapicrud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D99722D-9B6B-49E2-BDF3-276DAEF93454}|ASPCoreWebApiCrud.csproj|solutionrelative:controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D99722D-9B6B-49E2-BDF3-276DAEF93454}|ASPCoreWebApiCrud.csproj|d:\\kailash.jha\\dotnet training\\aspcorewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D99722D-9B6B-49E2-BDF3-276DAEF93454}|ASPCoreWebApiCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D99722D-9B6B-49E2-BDF3-276DAEF93454}|ASPCoreWebApiCrud.csproj|d:\\kailash.jha\\dotnet training\\aspcorewebapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D99722D-9B6B-49E2-BDF3-276DAEF93454}|ASPCoreWebApiCrud.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D99722D-9B6B-49E2-BDF3-276DAEF93454}|ASPCoreWebApiCrud.csproj|d:\\kailash.jha\\dotnet training\\aspcorewebapicrud\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D99722D-9B6B-49E2-BDF3-276DAEF93454}|ASPCoreWebApiCrud.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ASPCoreWebApiCrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ASPCoreWebApiCrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:30:34.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ASPCoreWebApiCrud\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDbContext.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ASPCoreWebApiCrud\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "Models\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:58:51.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ASPCoreWebApiCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ASPCoreWebApiCrud\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T06:53:43.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ASPCoreWebApiCrud\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ASPCoreWebApiCrud\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Controllers\\StudentAPIController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:31:38.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\bin\Debug\net8.0\Implicit.exe
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\bin\Debug\net8.0\Implicit.deps.json
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\bin\Debug\net8.0\Implicit.runtimeconfig.json
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\bin\Debug\net8.0\Implicit.dll
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\bin\Debug\net8.0\Implicit.pdb
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\obj\Debug\net8.0\Implicit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\obj\Debug\net8.0\Implicit.AssemblyInfoInputs.cache
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\obj\Debug\net8.0\Implicit.AssemblyInfo.cs
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\obj\Debug\net8.0\Implicit.csproj.CoreCompileInputs.cache
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\obj\Debug\net8.0\Implicit.dll
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\obj\Debug\net8.0\refint\Implicit.dll
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\obj\Debug\net8.0\Implicit.pdb
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\obj\Debug\net8.0\Implicit.genruntimeconfig.cache
+D:\Kailash.jha\Dotnet training\Implicit\Implicit\obj\Debug\net8.0\ref\Implicit.dll

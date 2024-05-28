@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\data\\bookmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:data\\bookmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\repository\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:repository\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\book\\getallbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\book\\getallbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\author\\getallauthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\author\\getallauthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\author\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\author\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\publisher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\publisher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\publisher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\publisher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\publisher\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\publisher\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\publisher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\publisher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\publisher\\getpublisherlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\publisher\\getpublisherlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|d:\\kailash.jha\\dotnet training\\forgenkeyrelationship.netcore\\forgenkeyrelationship.netcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4D8882AB-9014-4603-8A86-916B2E35F4BF}|ForgenKeyRelationship.NetCore.csproj|solutionrelative:forgenkeyrelationship.netcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:11:58.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Repository\\Service\\Service.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\Service.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Repository\\Service\\Service.cs",
+              "RelativeToolTip": "Repository\\Service\\Service.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAwKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:07:52.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManagementContext.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Data\\BookManagementContext.cs",
+              "RelativeDocumentMoniker": "Data\\BookManagementContext.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Data\\BookManagementContext.cs",
+              "RelativeToolTip": "Data\\BookManagementContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:49:20.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:15:09.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Models\\Publisher.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Models\\Publisher.cs",
+              "RelativeToolTip": "Models\\Publisher.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:38:10.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IRepository.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:01:37.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:26:01.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T11:56:44.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PublisherController.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Controllers\\PublisherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublisherController.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Controllers\\PublisherController.cs",
+              "RelativeToolTip": "Controllers\\PublisherController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAewH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:10:50.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:48:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAAwK8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:22:33.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAwJQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:52:41.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwB4AAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:52:26.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T10:32:24.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllBooks.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Book\\GetAllBooks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\GetAllBooks.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Book\\GetAllBooks.cshtml",
+              "RelativeToolTip": "Views\\Book\\GetAllBooks.cshtml",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwEcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:50:55.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Delete.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Book\\Delete.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:55:51.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "Views\\Book\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T09:31:27.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllAuthor.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Author\\GetAllAuthor.cshtml",
+              "RelativeDocumentMoniker": "Views\\Author\\GetAllAuthor.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Author\\GetAllAuthor.cshtml",
+              "RelativeToolTip": "Views\\Author\\GetAllAuthor.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:18:54.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:46:37.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Author\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Author\\Create.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Author\\Create.cshtml",
+              "RelativeToolTip": "Views\\Author\\Create.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:26:04.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Author\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Author\\Delete.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Author\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Author\\Delete.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:26:05.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAwEQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T07:59:42.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Author\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Author\\Details.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Author\\Details.cshtml",
+              "RelativeToolTip": "Views\\Author\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:24:31.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Author\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Author\\Edit.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Author\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Author\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:20:34.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Publisher\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publisher\\Create.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Publisher\\Create.cshtml",
+              "RelativeToolTip": "Views\\Publisher\\Create.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:17:31.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Publisher\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publisher\\Delete.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Publisher\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Publisher\\Delete.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:16:35.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Publisher\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publisher\\Details.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Publisher\\Details.cshtml",
+              "RelativeToolTip": "Views\\Publisher\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:15:28.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Publisher\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publisher\\Edit.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Publisher\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Publisher\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:12:51.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetPublisherList.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Publisher\\GetPublisherList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Publisher\\GetPublisherList.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Publisher\\GetPublisherList.cshtml",
+              "RelativeToolTip": "Views\\Publisher\\GetPublisherList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:09:06.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB8AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T07:34:13.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIkUAAAAAAAAAADwv4UUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-17T06:40:45.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ForgenKeyRelationship.NetCore.csproj",
+              "DocumentMoniker": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\ForgenKeyRelationship.NetCore.csproj",
+              "RelativeDocumentMoniker": "ForgenKeyRelationship.NetCore.csproj",
+              "ToolTip": "D:\\Kailash.jha\\Dotnet training\\ForgenKeyRelationship.NetCore\\ForgenKeyRelationship.NetCore.csproj",
+              "RelativeToolTip": "ForgenKeyRelationship.NetCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T05:47:58.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
